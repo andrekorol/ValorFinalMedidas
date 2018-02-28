@@ -1,5 +1,15 @@
 ﻿*.opendb
 *.json
+*.vcxproj
 /.vs/slnx.sqlite
 /.vs/ValorFinalMedidas/v15/Browse.VC.db
 /.vs/ValorFinalMedidas/v15
+/.vs/config
+/Debug
+/ErrorOperations/x64/Debug
+/ErrorOperations/ErrorOperations.vcxproj.filters
+/ErrorOperations/ErrorOperations.vcxproj
+/ValorFinalMedidas/Debug
+/ValorFinalMedidas/x64/Debug
+/ValorFinalMedidas/ValorFinalMedidas.vcxproj.user
+/x64/Debug
