@@ -1,6 +1,7 @@
 ﻿*.opendb
 *.json
 *.vcxproj
+*..filters
 /.vs/slnx.sqlite
 /.vs/ValorFinalMedidas/v15/Browse.VC.db
 /.vs/ValorFinalMedidas/v15
