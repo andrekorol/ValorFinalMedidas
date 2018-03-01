@@ -9,7 +9,7 @@
 #define ERROR_OPERATIONS_API __declspec(dllimport)
 #endif
 
-namespace ErrorOperations 
+namespace ErrorOperations
 {
 	class Functions
 	{
